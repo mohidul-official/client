@@ -76,6 +76,7 @@ for your bucket list trip</h1>
   moveRangeOnFirstSelection={false}
   ranges={date}
   className="date"
+  minDate={new Date()}
 />}
                 </div>
                 <div className="headerSearchItem">
